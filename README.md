@@ -7,8 +7,8 @@
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
 
-My name is Gonçalo and I'm a Full stack developer. Not gonna lie, I love coding. Actually, I feel sick if I go more than 3 days without coding. Yes, I even code when I'm on vacation.
+My name is Gonçalo Garcia, I'm a portuguese developer studying Computer Engineering at the Lisbon Superior Engineering Institute (ISEL).
 
-- :office_worker: I’m currently working at gym-o-matic as a Full stack developer, using the MERN stack and react native for mobile development.
-- 💻 I’m probably coding at the moment.
-- 😄 Fun fact, when I used to work as a back end developer with PHP I hated Javascript, but now....oh boy...I love Js!
+- :office_worker: Currently working at gym-o-matic as a Full stack developer, using the MERN stack and react native for mobile development.
+- 💻 Probably coding at the moment.
+- 😄 Documentation is like sex. When it's good, it's verry good. When it's bad, it's better than nothing.
