@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalogarcia99)](https://www.linkedin.com/in/goncalogarcia99)
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=goncalogarcia99@gmail.com&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:goncalogarcia99@gmail.com)](mailto:goncalogarcia99@gmail.com)
 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](www.goncalogarcia.com)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](goncalogarcia.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/goncalogarcia99)
 
 ### Welcome
