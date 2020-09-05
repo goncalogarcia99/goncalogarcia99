@@ -7,6 +7,6 @@
 
 My name is Gonçalo Garcia, I'm a portuguese developer studying Computer Engineering at the Lisbon Superior Engineering Institute (ISEL).
 
-- :office_worker: Currently working at gym-o-matic as a Full stack developer, using the MERN stack and react native for mobile development.
+- :office_worker: Part-time freelancer: mobile development.
 - 💻 Probably coding at the moment.
 - 😄 Documentation is like sex. When it's good, it's verry good. When it's bad, it's better than nothing.
