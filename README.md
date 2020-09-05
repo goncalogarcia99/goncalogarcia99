@@ -5,7 +5,7 @@
 
 ### Welcome
 
-I'm a portuguese developer studying Computer Science and Computer Engineering at the Lisbon Superior Engineering Institute (ISEL). I also work as a part-time freelancer.
+I'm a portuguese developer taking a BS in Computer Science and Computer Engineering at the Lisbon Superior Engineering Institute (ISEL). I also work as a part-time freelancer.
 
 - 💻 Probably coding at the moment.
 - 😄 Documentation is like sex. When it's good, it's verry good. When it's bad, it's better than nothing.
