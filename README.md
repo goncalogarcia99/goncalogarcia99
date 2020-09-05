@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncalogarcia99)](https://www.linkedin.com/in/goncalogarcia99)
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=goncalogarcia99@gmail.com&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:goncalogarcia99@gmail.com)](mailto:goncalogarcia99@gmail.com)
 
+#
+
 ## Hi 👋  
 ### Welcome to my GitHub Account :octocat:
 
