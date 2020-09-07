@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.goncalogarcia.com/)
 [![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:goncalogarcia99@gmail.com)](mailto:goncalogarcia99@gmail.com)
 
-### Welcome
+### Welcome!
 
 - Portuguese developer.
 - Taking a BS in Computer Science and Computer Engineering at the Lisbon Superior Engineering Institute (ISEL).
