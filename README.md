@@ -6,4 +6,4 @@
 ### Welcome!
 
 - Computer Science and Computer Engineering BS student at the Lisbon Superior Engineering Institute ([ISEL](https://isel.pt/)).
-- 😄 Documentation is like sex. When it's good, it's verry good. When it's bad, it's better than nothing.
+- 😄 Documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.
